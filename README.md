@@ -1,7 +1,12 @@
 Epoch 60 - accuracy: 79.14% (7914/10000) - time: 00:00:03.44
 ###########################################################################################################
+
+with RTX2080ti
+
 Best accuracy pre session: 79.32, time: 00:03:27.58
 
+with TitanXp
+time: 00:03:44:42
 
 # tensorflow-cifar-10
 Cifar-10 convolutional network implementation example using TensorFlow library.
