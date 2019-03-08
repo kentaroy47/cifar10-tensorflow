@@ -1,3 +1,8 @@
+Epoch 60 - accuracy: 79.14% (7914/10000) - time: 00:00:03.44
+###########################################################################################################
+Best accuracy pre session: 79.32, time: 00:03:27.58
+
+
 # tensorflow-cifar-10
 Cifar-10 convolutional network implementation example using TensorFlow library.
 ![](https://s3.eu-central-1.amazonaws.com/serhiy/Github_repo/tensorflow-cifar-10/v1.0.0/plot.png?v1)
